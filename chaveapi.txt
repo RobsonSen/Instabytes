@@ -1,9 +1,1 @@
-AIzaSyDp94ZX4aTG-_1J3GM1jSB036l-bI6qmis
-
-robsonsenarego  VqGSkYltfC7zvt1D (MongoDB)
-
-mongodb+srv://<db_username>:<db_password>@cluster0.yng99.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-
-mongodb+srv://robsonsenarego:<db_password>@cluster0.yng99.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-
-GEMINI_API_KEY AIzaSyAm3K5982WR6xkRYxncH3Y-199evoWN7gA
+xxx
